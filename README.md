@@ -4,4 +4,5 @@
 ```
    Linear Regression
    K- Nearest Neighbors
+   Logistic Regression
 ```
